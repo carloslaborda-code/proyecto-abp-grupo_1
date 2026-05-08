@@ -1,0 +1,18 @@
+src/pro/BinaryAssault/build/
+src/pro/BinaryAssault/BinaryAssault
+src/pro/BinaryAssault/MiJuego
+.codex
+.codex/
+*.o
+
+mapa
+*.o
+
+# Build artifacts
+**/build/
+
+# CMake local files
+CMakeUserPresets.json
+
+# macOS / editor noise
+.DS_Store
